@@ -1,0 +1,73 @@
+body, html {
+    height: 100%;
+    margin: 0;
+
+  }
+  
+.bgimg-1{
+    position: relative;
+    opacity: 0.75;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+
+.bgimg-1 {
+    background-image: url("../picture/urban2.jpg");
+    height: 100%;
+  }
+
+input{
+    border:1px solid black;
+
+  
+}
+
+input:focus{
+
+    background-color: white;
+}
+
+.border h3{
+    font-weight: bold;
+}
+
+
+fieldset{
+    margin-bottom: 3%;
+    text-align: center;
+    color:  #ffffff; 
+}
+
+#shippingName {
+    color: black;
+}
+
+#shippingMail{
+    color: black;
+}
+
+#shippingSubject{
+    color: black;
+}
+
+#ver{
+    
+    color: black;
+}
+
+section{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    color: #ffffff;
+}
+
+
+.border {
+    
+    padding: 5%;
+    font-size: 25px;
+    letter-spacing: 10px;
+  }
